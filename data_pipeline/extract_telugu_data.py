@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 # Paths to the dataset files
-BASE_PATH = "/MahaDhwani/dataflow_pipeline/languages/Telugu"
+BASE_PATH = "../MahaDhwani/dataflow_pipeline/languages/Telugu"
 METADATA_CSV = os.path.join(BASE_PATH, "video_ids_metadata_Telugu.csv")
 TITLES_CSV = os.path.join(BASE_PATH, "video_ids_title_Telugu.csv")
 

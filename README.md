@@ -101,4 +101,4 @@ hyperparameters = {
 
 ## 🙏 Acknowledgements
 
-This project uses the **MahaDhwani** dataset provided by **AI4Bharat**. We are deeply grateful to AI4Bharat for open-sourcing this incredible dataset and making it available on GitHub. You can find their amazing work on their official [GitHub repository](https://github.com/AI4Bharat/MahaDhwani).
+This project uses the **MahaDhwani** dataset provided by **AI4Bharat**.I'm deeply grateful to AI4Bharat for open-sourcing this incredible dataset and making it available on GitHub. You can find their amazing work on their official [GitHub repository](https://github.com/AI4Bharat/MahaDhwani).
